@@ -1,2 +1,4 @@
 # ValheimPlusServerConfig
-valheim plus server config
+
+Mods Used
+* https://github.com/valheimPlus/ValheimPlus
